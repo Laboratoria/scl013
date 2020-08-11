@@ -1,0 +1,12 @@
+{
+  "name": "pizza",
+  "version": "1.0.0",
+  "author": "Lupo Montero",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "dependencies": {
+    "jest": "^26.3.0"
+  }
+}
